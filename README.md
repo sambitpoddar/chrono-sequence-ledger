@@ -17,23 +17,23 @@ To install the CSL system, follow these steps:
 
 1. Clone the CSL repository from [GitHub](https://github.com/sambitpoddar/chrono-sequence-ledger.git) to your local machine:
    ```bash
-   $ git clone https://github.com/sambitpoddar/chrono-sequence-ledger.git
+   git clone https://github.com/sambitpoddar/chrono-sequence-ledger.git
    ```
 
 2. Navigate to the cloned directory:
    ```bash
-   $ cd chrono-sequence-ledger
+   cd chrono-sequence-ledger
    ```
 
 3. Install the necessary dependencies using pip:
    ```bash
-   $ pip install -r requirements.txt
+   pip install -r requirements.txt
    ```
 
 ## Usage
 To use the CSL system, execute the following command:
 ```bash
-$ python main.py
+python main.py
 ```
 This will start the CSL application and allow you to interact with the ledger.
 
