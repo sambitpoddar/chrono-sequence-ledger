@@ -1,3 +1,5 @@
+<center><img src="https://github.com/sambitpoddar/chrono-sequence-ledger/blob/main/chronologo.png" alt="CSL Logo" width="200"/></center>
+
 # Chrono-Sequence Ledger (CSL)
 
 ## Overview
